@@ -1,5 +1,5 @@
 {
-  "name": "roots/sage-installer",
+  "name": "gofullstack/sage-installer",
   "description": "Sage starter theme installer",
   "keywords": [
     "sage",
@@ -23,6 +23,11 @@
       "name": "Ben Word",
       "email": "ben@benword.com",
       "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Mike Biang",
+      "email": "mike@gofullstack.com",
+      "homepage": "https://github.com/gofullstack"
     }
   ],
   "bin": [
@@ -34,10 +39,10 @@
     }
   },
   "require": {
-    "illuminate/console": "~8.82",
-    "illuminate/filesystem": "~8.82",
-    "ramsey/uuid": "^4.2.3",
-    "symfony/process": "^5.4"
+    "illuminate/console": "~11.8.0",
+    "illuminate/filesystem": "~11.8.0",
+    "ramsey/uuid": "^4.7.6",
+    "symfony/process": "^7.0.7"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "~3.6.2"
