@@ -39,8 +39,8 @@
     }
   },
   "require": {
-    "illuminate/console": "~8.82",
-    "illuminate/filesystem": "~8.82",
+    "illuminate/console": "~5.4",
+    "illuminate/filesystem": "~5.4",
     "ramsey/uuid": "^3.9.7",
     "symfony/process": "~5.0"
   },
